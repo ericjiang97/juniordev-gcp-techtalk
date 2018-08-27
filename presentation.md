@@ -12,9 +12,8 @@ footer: Copyright Ⓒ Eric Jiang 2018 | Based off _[Building and Maintaining App
 slidenumbers: false
 
 
-## Building Scalable NodeJS Apps on Google's Scalable Infrastructure for JuniorDev
-
-### Eric Jiang <br/>[@lorderikir](https://twitter.com/lorderikir)
+## Building Scalable NodeJS Apps on Google's Scalable Infrastructure for JuniorDev 
+#### _[https://github.com/lorderikir/juniordev-gcp-techtalk](https://github.com/lorderikir/juniordev-gcp-techtalk)_ <br/><br/>  Eric Jiang <br/>[@lorderikir](https://twitter.com/lorderikir)
 
 #### Junior Software Engineer (Backend/Infrastructure), Monash University
 
