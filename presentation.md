@@ -12,16 +12,24 @@ footer: Copyright Ⓒ Eric Jiang 2018 | Based off _[Building and Maintaining App
 slidenumbers: false
 
 
-## Building Scalable NodeJS Apps on Google's Scalable Infrastructure
+## Building Scalable NodeJS Apps on Google's Scalable Infrastructure for JuniorDev
 
 ### Eric Jiang <br/>[@lorderikir](https://twitter.com/lorderikir)
 
+#### Junior Software Engineer (Backend/Infrastructure), Monash University
 
 
 ![original](first-slide.png)
 
 [.autoscale: false]
 ---
+
+## Discalimer: These slides are based off the Training Module for our new Student Developers
+
+![original](background.png)
+
+---
+
 # Hi, I'm **Eric Jiang** 👋 <br/><br/>
 
 - I founded and currently am currently the Backend & Infrastructure Engineer at MonPlan ([monplan.apps.monash.edu](https://monplan.apps.monash.edu)) (_Monash Course Planning Tool_) at [Monash University](https://monash.edu)
@@ -304,8 +312,8 @@ runtime: nodejs8
 
 - Cloud ML (Google Cloud Machine Learning) which is built off TensorFlow 
 - Compute Engine - Google VMs
-- BigQuery - Big Data (really awesome for Big Data analysis, companies like REA, Papercut uses this for Big Data analysis)
-- Container Engine - built off Kubernetes and allows deployment of custom applications
+- BigQuery - Big Data (really awesome for Big Data analysis, companies like REA, Papercut uses this for Big Data analysis) - Our team uses it to provide Faculties and Business Units with reporting functionality.
+- Kubernetes Engine - Containorisation! what else do you want?
 - Cloud Storage - CDN provider of files (like _Amazon S3_)
 - Network Balancer - for Load Balancing of traffic for your applications
 - Cloud ML APIs such as Natural Language Processing, Data Loss Prevention, etc.
@@ -343,7 +351,8 @@ Stackdriver Logging is baked into Google App Engine applications
 ![original](background.png)
 
 ---
-# Questions? <br/><br/> 🤔 🎤 📣
+## Questions? 🤔 🎤 📣 
+## and the chance to get some free stickers?
 
 
 ![original](background.png)
