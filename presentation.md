@@ -271,6 +271,14 @@ runtime: nodejs8
 ![original](background.png)
 
 ---
+## Once we successfully deployed
+
+We can access the site via [https://juniordev-gcp-demo.appspot.com/](https://juniordev-gcp-demo.appspot.com/)
+
+![original](background.png)
+
+
+---
 
 ### So what happens under the hood?
 
