@@ -12,7 +12,7 @@ _Presented as part of JuniorDev September 2018 Code & Tell_
 
 ## Presenting
 
-To Build the Presentation use [Deckset]() and open [presentation.md](presentation.md)
+To Build the Presentation use [Deckset](https://www.deckset.com/) and open [presentation.md](presentation.md)
 Otherwise view [presentation.pdf](presentation.pdf).
 
 ## Quick Links
