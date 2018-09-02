@@ -54,7 +54,8 @@ To reconfigure which `app` is your current working project, type `gcloud config 
 # LICENSE
 This presentation and demo application is licensed under the `MIT` Open Source License. To view LICENSE visit [here](./LICENSE)
 
-Copyright 2018 &copy; Eric Jiang, Monash University
+Copyright 2017 - 2018 &copy; Eric Jiang <br/>
+Copyright 2018 &copy; Monash University
 
 
 
