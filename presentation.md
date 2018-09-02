@@ -23,12 +23,6 @@ slidenumbers: false
 [.autoscale: false]
 ---
 
-## Discalimer: These slides are based off the Training Module for our new Student Developers
-
-![original](background.png)
-
----
-
 # Hi, I'm **Eric Jiang** 👋 <br/><br/>
 
 - I founded and currently am currently the Backend & Infrastructure Engineer at MonPlan ([monplan.apps.monash.edu](https://monplan.apps.monash.edu)) (_Monash Course Planning Tool_) at [Monash University](https://monash.edu)
@@ -39,7 +33,6 @@ slidenumbers: false
 ![original](background.png)
 
 ---
-
 ## Student Innovation Program at Monash University
 
 _Unfortunately this program is applicable to Current Monash Students only_
@@ -160,7 +153,10 @@ Note: all of these runs as containers...
 
 ![inline](https://i.redd.it/ueupm5upnt411.jpg)
 
+This is because Google's infrastructure code is written in low-level language (so many C libraries are not allowed)
+
 ![original](background.png)
+
 
 ---
 
@@ -260,6 +256,32 @@ app.yaml:
 
 ```
 runtime: nodejs8
+```
+
+![original](background.png)
+
+---
+
+## In some languages we define this in `appengine-web.xml`
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <runtime>java8</runtime>
+    <application>monplan-au-dev</application><!-- unused for Cloud SDK based tooling -->
+    <version>1</version><!-- unused for Cloud SDK based tooling -->
+    <threadsafe>true</threadsafe>
+    <sessions-enabled>true</sessions-enabled>
+    <url-stream-handler>urlfetch</url-stream-handler>
+    <system-properties>
+        <property name="java.util.logging.config.file" value="WEB-INF/classes/logging.properties"/>
+        <property name="spring.profiles.active" value="dev"/>
+    </system-properties>
+    <automatic-scaling>
+        <min-instances>1</min-instances>
+        <max-instances>100</max-instances>
+    </automatic-scaling>
+</appengine-web-app>
 ```
 
 ![original](background.png)
