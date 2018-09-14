@@ -33,6 +33,13 @@ slidenumbers: false
 ![original](background.png)
 
 ---
+
+![inline](./images/monplan.png)
+
+![original](background.png)
+
+[.autoscale: false]
+---
 ## Student Innovation Program at Monash University
 
 _Unfortunately this program is applicable to Current Monash Students only_
