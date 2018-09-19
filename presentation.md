@@ -12,7 +12,7 @@ footer: Copyright Ⓒ Eric Jiang 2018 | Based off _[Building and Maintaining App
 slidenumbers: false
 
 
-## Building Scalable NodeJS Apps on Google's Scalable Infrastructure for JuniorDev 
+## Building NodeJS Apps on Google's Scalable Infrastructure for JuniorDev 
 #### _[https://github.com/lorderikir/juniordev-gcp-techtalk](https://github.com/lorderikir/juniordev-gcp-techtalk)_ <br/><br/>  Eric Jiang <br/>[@lorderikir](https://twitter.com/lorderikir)
 
 #### Junior Software Engineer (Backend/Infrastructure), Monash University
@@ -25,7 +25,8 @@ slidenumbers: false
 
 # Hi, I'm **Eric Jiang** 👋 <br/><br/>
 
-- I founded and currently am currently the Backend & Infrastructure Engineer at MonPlan ([monplan.apps.monash.edu](https://monplan.apps.monash.edu)) (_Monash Course Planning Tool_) at [Monash University](https://monash.edu)
+- I founded and currently am currently the Backend & Infrastructure Engineer at MonPlan ([monplan.apps.monash.edu](https://monplan.apps.monash.edu)) (_Monash Course Planning Tool_) at eSolutions, [Monash University](https://monash.edu)
+   - eSolutions is the central IT body of Monash University.
 - Part of the _Student Innovation Team_
 - I also co-founded and maintaining GeckoDM and MARIE.js
 - Also have worked at Localz too!
