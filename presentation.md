@@ -389,8 +389,6 @@ Stackdriver Logging is baked into Google App Engine applications
 
 ---
 ## Questions? 🤔 🎤 📣 
-## and the chance to get some free stickers?
-
 
 ![original](background.png)
 
